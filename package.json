@@ -1,13 +1,18 @@
 {
-  "name": "simple-webpack",
+  "name": "learn-webpack",
   "version": "1.0.0",
-  "description": "simple webpack",
+  "description": "learn webpack",
   "main": "",
+  "bin": "./bin/webpack.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LamWaiBen/learn-webpack.git"
   },
   "author": "",
   "license": "ISC",
